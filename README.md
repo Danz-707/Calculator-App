@@ -34,12 +34,3 @@ App Name is an interactive calculator web application that allows users to perfo
 ## Customization
 - Modify the color scheme in the CSS file (`style.css`) to match your preferences.
 - Update the calculator logic in the JavaScript file (`app.js`) if additional functionality is needed.
-
-## Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
-
-## Contact
-For any inquiries or feedback, please contact [email@example.com].
